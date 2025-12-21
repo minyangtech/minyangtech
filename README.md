@@ -1,16 +1,43 @@
-## Hi there 👋
+# 민양테크 👋
 
-<!--
-**minyangtech/minyangtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5B76F7&center=true&vCenter=true&width=435&lines=Welcome+to+Minyang+Tech;Innovative+Software+Solutions" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏢 Information / 정보
+* **Company:** 민양테크 (Minyang Tech)
+
+---
+
+### 🛒 Software Shop / 소프트웨어 구매
+<p align="center">
+  <a href="https://minyangtech.n-e.kr" target="_blank">
+    <img src="https://github.com/minyangtech/minyangtech.github.io/blob/main/image/%EB%AF%BC%EC%96%91%20%ED%85%8C%ED%81%AC.png?raw=true" width="450" alt="민양 테크 이미지">
+  </a>
+  <br>
+  👉 <b>[소프트웨어 구매 바로가기](https://minyangtech.n-e.kr)</b>
+</p>
+
+---
+
+### 🤝 Connect with me / 연락처
+<p align="left">
+  <a href="https://discord.com/users/whoasked0482" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://x.com/minyang_tech" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+  <a href="mailto:minyangtech.info@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats / 깃허브 상태
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=minyangtech&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+</p>
