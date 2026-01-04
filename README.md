@@ -13,11 +13,11 @@
 
 ### 🛒 Software Shop / 소프트웨어 구매
 <p align="center">
-  <a href="https://minyangtech.n-e.kr" target="_blank">
+  <p>이용 불가합니다.</p>
     <img src="https://github.com/minyangtech/minyangtech.github.io/blob/main/image/%EB%AF%BC%EC%96%91%20%ED%85%8C%ED%81%AC.png?raw=true" width="450" alt="민양 테크 이미지">
   </a>
   <br>
-  👉 <b>소프트웨어 구매 바로가기 : https://minyangtech.n-e.kr</b>
+  👉 <b>이용해주셔서 감사합니다</b>
 </p>
 
 ---
