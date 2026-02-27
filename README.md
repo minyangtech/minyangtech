@@ -7,20 +7,10 @@
 ---
 
 ### 🏢 Information / 정보
-* **Company:** 민양테크 (Minyang Tech)
+* **Dev Team:** 민양테크 (Minyang Tech)
 
 ---
 
-### 🛒 Software Shop / 소프트웨어 구매
-<p align="center">
-  <p>이용 불가합니다.</p>
-    <img src="https://github.com/minyangtech/minyangtech.github.io/blob/main/image/%EB%AF%BC%EC%96%91%20%ED%85%8C%ED%81%AC.png?raw=true" width="450" alt="민양 테크 이미지">
-  </a>
-  <br>
-  👉 <b>이용해주셔서 감사합니다</b>
-</p>
-
----
 
 ### 🤝 Connect with me / 연락처
 <p align="left">
@@ -30,7 +20,7 @@
   <a href="https://x.com/minyang_tech" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>
-  <a href="mailto:minyangtech.info@gmail.com">
+  <a href="mailto:support@minyangtech.n-e.kr">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
