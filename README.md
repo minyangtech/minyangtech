@@ -24,10 +24,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
-
----
-
-### 📊 GitHub Stats / 깃허브 상태
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=minyangtech&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-</p>
