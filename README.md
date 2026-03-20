@@ -18,10 +18,8 @@
 [![Whoasked's GitHub stats](https://github-readme-stats.vercel.app/api?username=minyangtech)](https://github.com/minyangtech/github-readme-stats)
 
 > [!NOTE]
-> 안녕하세요 Whoasked입니다.
-
-> 스텔라이브, 애니 등등 다 좋아해요
-
+> 안녕하세요 Whoasked입니다.  
+> 스텔라이브, 애니 등등 다 좋아해요  
 > 2인 게임 개발팀입니다
 
 ---
