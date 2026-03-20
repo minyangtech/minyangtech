@@ -26,17 +26,17 @@
 
 
 ### 🤝 Connect with me / 연락처
-<p align="left">
-  <a href="https://discord.com/users/whoasked0482" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="https://x.com/minyang_tech" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
-  </a>
-  <a href="mailto:support@minyangtech.n-e.kr">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
+<a href="https://discord.com/users/whoasked0482" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>
+<a href="https://x.com/minyang_tech" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+</a>
+<a href="mailto:support@minyangtech.n-e.kr">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
 
-![Static Badge](https://img.shields.io/badge/discord-%EB%AF%BC%EC%96%91%ED%85%8C%ED%81%AC-blue?style=flat&logo=discord&link=https%3A%2F%2Fdiscord.gg%2FTMd5jReNyC)
-![Static Badge](https://img.shields.io/badge/%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%AF%BC%EC%96%91%ED%85%8C%ED%81%AC-brightgreen?style=flat&logo=google&link=https%3A%2F%2Fminyangtech.n-e.kr)
+<br><br>
+
+[![Discord Badge](https://img.shields.io/badge/discord-%EB%AF%BC%EC%96%91%ED%85%8C%ED%81%AC-blue?style=flat&logo=discord)](https://discord.gg/TMd5jReNyC)
+[![Website Badge](https://img.shields.io/badge/%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%AF%BC%EC%96%91%ED%85%8C%ED%81%AC-brightgreen?style=flat&logo=google)](https://minyangtech.n-e.kr)
