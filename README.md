@@ -8,39 +8,35 @@
 
 <img src="https://github.com/minyangtech/minyangtech/blob/main/%EB%AF%BC%EC%96%91%ED%85%8C%ED%81%AC%20%EB%B0%94%ED%83%95%ED%99%94%EB%A9%B4.png?raw=true" alt="민양테크" width="500" />
 
+</div>
+
 ---
 
 ### 🏢 Information / 정보
-**Dev Team:** 민양테크 (Minyang Tech)
-
-<br>
+* **Dev Team:** 민양테크 (Minyang Tech)
 
 [![Whoasked's GitHub stats](https://github-readme-stats.vercel.app/api?username=minyangtech)](https://github.com/minyangtech/github-readme-stats)
 
-</div>
-
 > [!NOTE]
-> <div align="center">안녕하세요 Whoasked입니다.<br>스텔라이브, 애니 등등 다 좋아해요<br>2인 게임 개발팀입니다</div>
+> 안녕하세요 Whoasked입니다.  
+> 스텔라이브, 애니 등등 다 좋아해요  
+> 2인 게임 개발팀입니다
 
 ---
 
-<div align="center">
 
 ### 🤝 Connect with me / 연락처
+<p align="left">
+  <a href="https://discord.com/users/whoasked0482" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://x.com/minyang_tech" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+  <a href="mailto:support@minyangtech.n-e.kr">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
 
-<a href="https://discord.com/users/whoasked0482" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-</a>
-<a href="https://x.com/minyang_tech" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
-</a>
-<a href="mailto:support@minyangtech.n-e.kr">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-
-<br><br>
-
-[![Discord Badge](https://img.shields.io/badge/discord-%EB%AF%BC%EC%96%91%ED%85%8C%ED%81%AC-blue?style=flat&logo=discord)](https://discord.gg/TMd5jReNyC)
-[![Website Badge](https://img.shields.io/badge/%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%AF%BC%EC%96%91%ED%85%8C%ED%81%AC-brightgreen?style=flat&logo=google)](https://minyangtech.n-e.kr)
-
-</div>
+![Static Badge](https://img.shields.io/badge/discord-%EB%AF%BC%EC%96%91%ED%85%8C%ED%81%AC-blue?style=flat&logo=discord&link=https%3A%2F%2Fdiscord.gg%2FTMd5jReNyC)
+![Static Badge](https://img.shields.io/badge/%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%AF%BC%EC%96%91%ED%85%8C%ED%81%AC-brightgreen?style=flat&logo=google&link=https%3A%2F%2Fminyangtech.n-e.kr)
