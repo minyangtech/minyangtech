@@ -4,10 +4,21 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5B76F7&center=true&vCenter=true&width=435&lines=Welcome+to+Minyang+Tech;Innovative+Software+Solutions" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/minyangtech/minyangtech/blob/main/%EB%AF%BC%EC%96%91%ED%85%8C%ED%81%AC%20%EB%B0%94%ED%83%95%ED%99%94%EB%A9%B4.png?raw=true" alt="민양테크" width="500" />
+</p>
+
 ---
 
 ### 🏢 Information / 정보
 * **Dev Team:** 민양테크 (Minyang Tech)
+
+[![Whoasked's GitHub stats](https://github-readme-stats.vercel.app/api?username=minyangtech)](https://github.com/minyangtech/github-readme-stats)
+
+> [!NOTE]
+> 안녕하세요 Whoasked입니다.  
+> 스텔라이브, 애니 등등 다 좋아해요  
+> 2인 게임 개발팀입니다
 
 ---
 
@@ -24,3 +35,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
+
+![Static Badge](https://img.shields.io/badge/discord-%EB%AF%BC%EC%96%91%ED%85%8C%ED%81%AC-blue?style=flat&logo=discord&link=https%3A%2F%2Fdiscord.gg%2FTMd5jReNyC)
+![Static Badge](https://img.shields.io/badge/%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%AF%BC%EC%96%91%ED%85%8C%ED%81%AC-brightgreen?style=flat&logo=google&link=https%3A%2F%2Fminyangtech.n-e.kr)
