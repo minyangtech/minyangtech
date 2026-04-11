@@ -15,7 +15,7 @@
 ### 🏢 Information / 정보
 * **Dev Team:** 민양테크 (Minyang Tech)
 
-[![Whoasked's GitHub stats](https://github-readme-stats.vercel.app/api?username=minyangtech)](https://github.com/minyangtech/github-readme-stats)
+![GitHub 커밋 그래프](https://github-readme-streak-stats.herokuapp.com/?user=minyangtech&theme=dark)
 
 > [!NOTE]
 > 안녕하세요 Whoasked입니다.  
