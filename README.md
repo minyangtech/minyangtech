@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://github.com/minyangtech/minyangtech/blob/main/%EB%AF%BC%EC%96%91%ED%85%8C%ED%81%AC%20%EB%B0%94%ED%83%95%ED%99%94%EB%A9%B4.png?raw=true" alt="민양테크" width="500" />
+<img src="https://minyangtech.n-e.kr/image/%EB%AF%BC%EC%96%91%ED%85%8C%ED%81%AC%20%EB%B0%94%ED%83%95%ED%99%94%EB%A9%B4.png" alt="민양테크" width="500" />
 
 </div>
 
