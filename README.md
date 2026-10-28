@@ -23,9 +23,7 @@
 > 2인 게임 개발팀입니다
 
 > [!IMPORTANT]
-> 모든 프로젝트가 바이브 코딩으로 제작되었습니다.
-> 나중에 멀쩡한부분냅두고 얼빵한부분한 손코딩으로 고칠 생각하니까 머리가 어지럽습니다.
-> 열심히 미루는중 ㅎ
+> 해당 계정에는 취미 개발 및 팬으로서 제작한 프로젝트만을 업로드합니다
 
 ---
 
@@ -45,3 +43,7 @@
 
 [![Discord Badge](https://img.shields.io/badge/discord-%EB%AF%BC%EC%96%91%ED%85%8C%ED%81%AC-blue?style=flat&logo=discord)](https://discord.gg/TMd5jReNyC)
 [![Website Badge](https://img.shields.io/badge/%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%AF%BC%EC%96%91%ED%85%8C%ED%81%AC-brightgreen?style=flat&logo=google)](https://minyangtech.n-e.kr)
+
+---
+
+whoasked@minyangtech.n-e.kr 이메일로 전송이 되지 않을경우 hhamstarrrrr@gmail.com 로 연락 부탁드립니다.
